@@ -2,7 +2,7 @@ import LogoImg from "../assets/images/logo-home.png";
 
 export function NavBar() {
   return (
-    <div className="p-8 w-full h-12 bg-zinc-100 flex">
+    <div className="p-8 w-full h-12  flex">
       <div className=" w-full flex flex-row justify-between items-center  text-center">
         <div className="w-32">
           <img src={LogoImg} alt="home icon" />

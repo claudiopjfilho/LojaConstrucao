@@ -1,11 +1,13 @@
-import { Main } from "../components/Header";
-import { NavBar } from "../components/NavBar";
+import { Header } from "../components/Header";
+import { Main } from "../components/Main";
 
 export function Home() {
   return (
-    <div className="w-full h-screen bg-slate-700">
+    <div className="w-full h-screen bg-zinc-50">
       <div>
-        <NavBar />
+        <div>
+          <Header />
+        </div>
         <div>
           <Main />
         </div>

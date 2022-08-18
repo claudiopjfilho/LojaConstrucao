@@ -1,9 +1,15 @@
 import Pic from "../assets/images/card.png";
+import { NavBar } from "../components/NavBar";
 
-export function Main() {
+export function Header() {
   return (
     <div>
-      <img src={Pic} alt="" />
+      <NavBar />
+      <div>
+        <img src={Pic} alt="" />
+      </div>
+
+      <div></div>
     </div>
   );
 }
