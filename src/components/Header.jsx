@@ -1,3 +1,9 @@
-export function Header() {
-  return <h1>Hello world!</h1>;
+import Pic from "../assets/images/card.png";
+
+export function Main() {
+  return (
+    <div>
+      <img src={Pic} alt="" />
+    </div>
+  );
 }
