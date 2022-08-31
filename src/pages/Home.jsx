@@ -1,5 +1,6 @@
 import { Header } from "../components/Header";
 import { Main } from "../components/Main";
+import { News } from "../components/News";
 
 export function Home() {
   return (
@@ -10,6 +11,9 @@ export function Home() {
         </div>
         <div>
           <Main />
+        </div>
+        <div>
+          <News />
         </div>
       </div>
     </div>

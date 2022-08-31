@@ -84,7 +84,7 @@ export function Main() {
       <section className=" ">
         <div
           div
-          className="grid grid-cols-2 gap-4 text-center  justify-evenly m-16"
+          className="grid grid-cols-2 gap-4 text-center  justify-evenly m-24"
         >
           <a href="">
             <img src={Switches} alt="" />
