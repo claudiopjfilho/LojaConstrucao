@@ -1,10 +1,11 @@
 import { Header } from "../components/Header";
 import { Main } from "../components/Main";
 import { News } from "../components/News";
+import { Newsletter } from "../components/Newsletter";
 
 export function Home() {
   return (
-    <div className="w-full h-screen bg-zinc-50">
+    <div className="w-full h-screen h-full bg-zinc-50">
       <div>
         <div>
           <Header />
@@ -14,6 +15,9 @@ export function Home() {
         </div>
         <div>
           <News />
+        </div>
+        <div>
+          <Newsletter />
         </div>
       </div>
     </div>
