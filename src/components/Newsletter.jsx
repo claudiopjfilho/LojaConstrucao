@@ -8,7 +8,7 @@ export function Newsletter() {
         <div className="flex flex-row my-auto justify-between">
           <h2 className=" ml-20 font-poppins text-lg">Newsletter</h2>
           <div className=" mb-8 flex flex-row">
-            <p className=" my-auto mr-52 font-poppins ">
+            <p className=" my-auto mr-44 font-poppins ">
               Receba nossas ofertas por e-mail
             </p>
 
@@ -17,9 +17,9 @@ export function Newsletter() {
                 type="email"
                 name="email"
                 placeholder="Digite seu e-mail"
-                className=" w-44 h-8 p-1 my-auto "
+                className=" w-60 h-8 p-1 my-auto text-sm "
               />
-              <img src={Check} alt="" className="bg-black p-2" />
+              <img src={Check} alt="" className="bg-black p-2 cursor-pointer" />
             </div>
           </div>
         </div>
