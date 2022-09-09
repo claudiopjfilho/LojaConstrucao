@@ -1,3 +1,5 @@
+import React from "react";
+
 import LogoImg from "../assets/images/logo-home.png";
 
 export function NavBar() {

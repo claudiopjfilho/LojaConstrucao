@@ -1,3 +1,5 @@
+import React from "react";
+
 import Check from "../assets/images/check.svg";
 
 export function Newsletter() {

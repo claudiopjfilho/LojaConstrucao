@@ -1,3 +1,5 @@
+import React from "react";
+
 import Interruptor1 from "../assets/images/interruptor1_sonoff.png";
 import Interruptor2 from "../assets/images/interruptor2_sonoff.png";
 import TomadaSemFio from "../assets/images/tomadasemfio_sonoff.png";

@@ -1,3 +1,5 @@
+import React from "react";
+
 import "./main.css";
 import Switches from "../assets/images/Cat1.png";
 import Sensores from "../assets/images/Cat2.png";

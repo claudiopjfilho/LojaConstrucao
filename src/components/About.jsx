@@ -1,3 +1,5 @@
+import React from "react";
+
 import Facebook from "../assets/images/facebook-ico.svg";
 import Instagram from "../assets/images/instagram-ico.svg";
 import Twitter from "../assets/images/twitter-ico.svg";

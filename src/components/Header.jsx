@@ -1,3 +1,5 @@
+import React from "react";
+
 import Pic from "../assets/images/card.png";
 import { NavBar } from "../components/NavBar";
 
