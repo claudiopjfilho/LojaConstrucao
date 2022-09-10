@@ -12,9 +12,9 @@ export function About() {
       <div className="flex flex-row mx-auto mt-4">
         <div className="flex flex-row  gap-52 ">
           <div>
-            <h2 className="text-left text-xs">Institucional</h2>
-            <ul className="mt-4 list-inside gap-8 text-gray-200">
-              <li className=" mb-2    ">
+            <h2 className="text-xs">Institucional</h2>
+            <ul className="mt-4 gap-8 text-gray-200">
+              <li className=" mb-2">
                 <a href="">• Fale Conosco</a>
               </li>
               <li className=" mb-2    ">
