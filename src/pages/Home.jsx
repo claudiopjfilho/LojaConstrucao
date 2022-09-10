@@ -1,6 +1,7 @@
 import React from "react";
 
 import { About } from "../components/About";
+import { Footer } from "../components/footer";
 import { Header } from "../components/Header";
 import { Main } from "../components/Main";
 import { News } from "../components/News";
@@ -25,6 +26,7 @@ export function Home() {
         <div>
           <About />
         </div>
+        <Footer />
       </div>
     </div>
   );
