@@ -1,10 +1,11 @@
 import React from "react";
 
-import Interruptor1 from "../assets/images/interruptor1_sonoff.png";
-import Interruptor2 from "../assets/images/interruptor2_sonoff.png";
-import TomadaSemFio from "../assets/images/tomadasemfio_sonoff.png";
-import Interruptor3 from "../assets/images/interruptor3_sonoff.png";
+import Interruptor1 from "../assets/images/products/interruptor1_sonoff.png";
+import Interruptor2 from "../assets/images/products/interruptor2_sonoff.png";
+import TomadaSemFio from "../assets/images/products/tomadasemfio_sonoff.png";
+import Interruptor3 from "../assets/images/products/interruptor3_sonoff.png";
 import "./news.css";
+
 export function News() {
   return (
     <div>

@@ -1,10 +1,10 @@
 import React from "react";
 
 import "./main.css";
-import Switches from "../assets/images/Cat1.png";
-import Sensores from "../assets/images/Cat2.png";
-import Tomadas from "../assets/images/Cat3.png";
-import Hubs from "../assets/images/Cat4.png";
+import Switches from "../assets/images/products/Cat1.png";
+import Sensores from "../assets/images/products/Cat2.png";
+import Tomadas from "../assets/images/products/Cat3.png";
+import Hubs from "../assets/images/products/Cat4.png";
 export function Main() {
   return (
     <div>

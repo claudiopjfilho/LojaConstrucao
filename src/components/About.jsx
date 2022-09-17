@@ -1,10 +1,10 @@
 import React from "react";
 
-import Facebook from "../assets/images/facebook-ico.svg";
-import Instagram from "../assets/images/instagram-ico.svg";
-import Twitter from "../assets/images/twitter-ico.svg";
-import Youtube from "../assets/images/youtube-ico.svg";
-import Pinterest from "../assets/images/pinterest-ico.svg";
+import Facebook from "../assets/images/icons/facebook-ico.svg";
+import Instagram from "../assets/images/icons/instagram-ico.svg";
+import Twitter from "../assets/images/icons/twitter-ico.svg";
+import Youtube from "../assets/images/icons/youtube-ico.svg";
+import Pinterest from "../assets/images/icons/pinterest-ico.svg";
 
 export function About() {
   return (
