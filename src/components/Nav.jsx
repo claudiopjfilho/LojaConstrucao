@@ -2,7 +2,7 @@ import React from "react";
 
 import LogoImg from "../assets/images/logo-home.png";
 
-export function NavBar() {
+export function Nav() {
   return (
     <div className="p-8 w-full h-12  flex">
       <div className=" w-full flex flex-row justify-between items-center  text-center">
@@ -11,22 +11,22 @@ export function NavBar() {
         </div>
         <div className="flex flex-row gap-8 font-poppins text-lg justify-items-center items-center  ">
           <a href="">
-            <h2>Casa Inteligente</h2>
+            <h2>Home</h2>
           </a>
           <a href="">
-            <h2>Interruptores</h2>
+            <h2>Projetos</h2>
           </a>
           <a href="">
-            <h2>Tomadas</h2>
+            <h2>Experiência</h2>
           </a>
           <a href="">
-            <h2>Sensores</h2>
+            <h2>Contato</h2>
           </a>
           <a href="">
-            <h2>Lâmpadas</h2>
+            <h2>Cursos</h2>
           </a>
           <a href="">
-            <h2>Ver Mais</h2>
+            <h2>Curriculo</h2>
           </a>
         </div>
 
